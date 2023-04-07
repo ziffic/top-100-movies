@@ -2,5 +2,5 @@
 /.idea/
 /venv/
 __pycache__/
-connect.py
-
+README.md
+movies.txt
